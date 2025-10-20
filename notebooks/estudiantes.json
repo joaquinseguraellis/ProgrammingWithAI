@@ -1,0 +1,20 @@
+{
+    "nombre": "Estudiantes",
+    "cursos": [
+        {
+            "id": 1,
+            "nombre": "Ana",
+            "nota": 85
+        },
+        {
+            "id": 2,
+            "nombre": "Juan",
+            "nota": 90
+        },
+        {
+            "id": 3,
+            "nombre": "María",
+            "nota": 78
+        }
+    ]
+}
